@@ -1,29 +1,4 @@
-# Donation Dashboard
 
-A full-stack donation tracking dashboard built using React and Node.js.
-
-## Features
-- Total donations received
-- Number of donors
-- Recent donation list
-
-## Tech Stack
-- Frontend: React (Vite)
-- Backend: Node.js, Express
-
-## Author
-Laxmi Badiger
-
-
-Got it 👍
-Here is your **FINAL, CLEAN, PROFESSIONAL README** with **NO mention of Vite anywhere**.
-This is **safe, simple, and perfect for internship submission**.
-
-You can **copy–paste this fully** into `README.md`.
-
----
-
-```md
 # 💝 Donation Tracking Dashboard
 
 A full-stack Donation Tracking Dashboard that displays total donations, total donors, and recent donation activity.  
