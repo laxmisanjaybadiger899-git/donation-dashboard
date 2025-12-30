@@ -33,24 +33,18 @@ The project is built with **React** for the frontend and **Node.js + Express** f
 
 ---
 
+
 ## 🚀 Live Links
 
 ### Frontend Application
-```
 https://donation-dashboard-jrsmx9v9.vercel.app
 
-[https://donation-dashboard-jrsmwx9v9.vercel.app](https://donation-dashboard-jrsmwx9v9.vercel.app)
-
-```
-
 ### Backend API
-```
+https://donation-dashboard-backend.onrender.com
 
-[https://donation-dashboard-backend.onrender.com](https://donation-dashboard-backend.onrender.com)
 
-```
 
----
+
 
 ## ⚙️ Environment Configuration
 
