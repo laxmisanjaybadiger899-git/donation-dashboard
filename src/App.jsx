@@ -5,7 +5,9 @@ function App() {
   const [donations, setDonations] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/donations")
+    
+    fetch("https://donation-dashboard-api.onrender.com/api/donations")
+
       .then((res) => res.json())
       .then((data) => setDonations(data))
       .catch((err) => console.error(err));
