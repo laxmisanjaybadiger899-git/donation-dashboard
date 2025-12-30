@@ -37,6 +37,7 @@ The project is built with **React** for the frontend and **Node.js + Express** f
 
 ### Frontend Application
 ```
+https://donation-dashboard-jrsmx9v9.vercel.app
 
 [https://donation-dashboard-jrsmwx9v9.vercel.app](https://donation-dashboard-jrsmwx9v9.vercel.app)
 
