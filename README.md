@@ -63,23 +63,24 @@ git clone https://github.com/laxmisanjaybadiger899-git/donation-dashboard.git
 cd donation-dashboard
 ````
 
+---
 
 ### 2️⃣ Start Frontend
 
-bash
+```bash
 npm install
 npm run dev
+```
 
-
-
+---
 
 ### 3️⃣ Start Backend
 
-bash
+```bash
 cd backend
 npm install
 node server.js
-
+```
 
 
 
