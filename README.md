@@ -4,7 +4,7 @@
 A full-stack Donation Tracking Dashboard that displays total donations, total donors, and recent donation activity.  
 The project is built with **React** for the frontend and **Node.js + Express** for the backend, and deployed on modern cloud platforms.
 
----
+
 
 ## 📌 Features
 
@@ -14,7 +14,7 @@ The project is built with **React** for the frontend and **Node.js + Express** f
 - 🌐 Fetches data from a live backend API
 - 🚀 Fully deployed and publicly accessible
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -31,18 +31,15 @@ The project is built with **React** for the frontend and **Node.js + Express** f
 - Frontend: **Vercel**
 - Backend: **Render**
 
----
 
 
 ## 🚀 Live Links
 
 ### Frontend Application
-https://donation-dashboard-jrsmx9v9.vercel.app
+https://donation-dashboard-three.vercel.app
 
 ### Backend API
-https://donation-dashboard-backend.onrender.com
-
-
+https://donation-dashboard-api.onrender.com/
 
 
 
@@ -50,15 +47,13 @@ https://donation-dashboard-backend.onrender.com
 
 The frontend connects to the backend using an environment variable:
 
-```
 
 VITE_API_URL=[https://donation-dashboard-backend.onrender.com](https://donation-dashboard-backend.onrender.com)
 
-````
 
 > This variable stores the backend API base URL and does not contain any sensitive information.
 
----
+
 
 ## 📦 Run Locally
 
@@ -68,26 +63,25 @@ git clone https://github.com/laxmisanjaybadiger899-git/donation-dashboard.git
 cd donation-dashboard
 ````
 
----
 
 ### 2️⃣ Start Frontend
 
-```bash
+bash
 npm install
 npm run dev
-```
 
----
+
+
 
 ### 3️⃣ Start Backend
 
-```bash
+bash
 cd backend
 npm install
 node server.js
-```
 
----
+
+
 
 ## 🔁 Deployment Workflow
 
@@ -97,11 +91,10 @@ node server.js
 4. Frontend fetches live donation data from backend
 5. Application is accessible publicly
 
----
 
 ## 📁 Project Structure
 
-```
+
 donation-dashboard/
 │
 ├── src/
@@ -113,9 +106,8 @@ donation-dashboard/
 │
 ├── package.json
 ├── README.md
-```
 
----
+
 
 ## 🎯 Purpose
 
@@ -127,11 +119,10 @@ This project demonstrates:
 * Cloud deployment experience
 * Real-world dashboard implementation
 
----
+
 
 ## 👤 Author
 
 **Laxmi Sanjay Badiger**
 
 
----
