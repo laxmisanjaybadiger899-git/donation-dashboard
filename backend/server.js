@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 
 const app = express();
-const PORT = process.env.PORT || 5000; // ✅ Render needs this
+const PORT = process.env.PORT || 5000; /
 
 app.use(cors());
 app.use(express.json());
@@ -14,7 +14,7 @@ const donations = [
   { name: "Sneha", amount: 1200, date: "2025-12-04" }
 ];
 
-// ✅ ROOT ROUTE (THIS FIXES "Cannot GET /")
+// ROOT ROUTE (THIS FIXES "Cannot GET /")
 app.get("/", (req, res) => {
   res.send("Donation Dashboard API is running 🚀");
 });
