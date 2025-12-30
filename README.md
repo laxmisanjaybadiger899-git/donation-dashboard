@@ -109,6 +109,23 @@ donation-dashboard/
 
 ''''
 
+## 📁 Project Structure
+
+```
+donation-dashboard/
+│
+├── src/
+│   ├── App.jsx
+│   ├── styles/
+│
+├── backend/
+│   ├── server.js
+│
+├── package.json
+├── README.md
+```
+
+
 ## 🎯 Purpose
 
 This project demonstrates:
